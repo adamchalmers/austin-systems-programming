@@ -1,0 +1,24 @@
+body {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "JetBrains Mono", monospace;
+  line-height: 1.725;
+  text-rendering: geometricPrecision;
+  background-color: #fffff8;
+  color: #383838;
+  max-width: 48rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+span.ping {
+  margin-right: 15px;
+  color: #2bbc8a;
+}
+
+a {
+  color: #2bbc8a;
+}
